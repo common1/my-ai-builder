@@ -15,3 +15,5 @@ Ok to proceed? (y)
     No, customize settings
 ```
 
+Current: 48:28
+
